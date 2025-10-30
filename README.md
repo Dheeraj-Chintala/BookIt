@@ -6,10 +6,13 @@ select available slots, and complete bookings. All with REST API integration.
 
 <div align="center">
 
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
-  
+
+[![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Vercel](https://img.shields.io/badge/Frontend%20Hosting-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Backend%20Hosting-Render-5F43E9?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+
 </div>
 
 ---
