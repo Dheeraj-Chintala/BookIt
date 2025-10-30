@@ -18,6 +18,14 @@ app.use("/api/experiences", experienceRoutes);
 app.use("/api/bookings", bookingRoutes);
 app.use("/api/promo", promoRoutes);
 
+app.get("/api/health", (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: "Server is running",
+    timestamp: new Date().toISOString(),
+  });
+});
+
 // Root
 app.get("/", (req, res) => {
   res.send("BookIt Backend API is running...");
