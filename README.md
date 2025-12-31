@@ -138,4 +138,3 @@ npm run dev
 
 ##  Credits
 Built by [Dheeraj Chintala](https://github.com/Dheeraj-Chintala)  
-for the **Highway Delite**  assignment.
